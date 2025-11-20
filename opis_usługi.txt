@@ -1,0 +1,16 @@
+Nazwa usługi: AR-Rehab – Rehabilitacja z wykorzystaniem rozszerzonej 
+rzeczywistości
+
+Opis: 
+Usługa AR-Rehab umożliwia pacjentom wykonywanie ćwiczeń rehabilitacyjnych 
+w domu przy użyciu aplikacji mobilnej z funkcją rozszerzonej 
+rzeczywistości. Aplikacja analizuje ruch pacjenta i wyświetla wirtualne 
+instrukcje nakładane na obraz z kamery, korygując pozycję i zakres ruchu w 
+czasie rzeczywistym.
+
+Cele usługi:
+- Zwiększenie dostępności rehabilitacji.
+- Zmniejszenie kosztów terapii.
+- Umożliwienie monitorowania postępów bez konieczności częstych wizyt 
+stacjonarnych.
+- Poprawa jakości terapii poprzez natychmiastową korektę ruchów.
