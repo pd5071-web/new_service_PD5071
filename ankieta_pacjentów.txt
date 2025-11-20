@@ -1,0 +1,19 @@
+Ankieta dla pacjentów:
+
+1. Czy korzystałeś wcześniej z aplikacji medycznych? (tak/nie)
+2. Skąd dowiedział(a) się Pan/Pani o AR‑Rehab? ☐ Strona internetowa ☐ Media 
+społecznościowe ☐ Od terapeuty ☐ Od znajomych ☐ Inne
+3. Jak ocenia Pan/Pani łatwość korzystania z systemu AR‑Rehab? (1 – bardzo trudne, 5 
+– bardzo łatwe) 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐
+4. Na ile ćwiczenia w rozszerzonej rzeczywistości były dla Pana/Pani motywujące i 
+angażujące? (1 – wcale, 5 – bardzo) 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐
+5. Czy ma Pan/Pani wrażenie, że AR‑Rehab przyspiesza proces rehabilitacji? ☐ Tak ☐ 
+Raczej tak ☐ Nie wiem ☐ Raczej nie ☐ Nie
+6. Jak ocenia Pan/Pani komfort i bezpieczeństwo podczas ćwiczeń? (1 – bardzo niski, 
+5 – bardzo wysoki) 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐
+7. Czy chciał(a)by Pan/Pani dalej korzystać z AR‑Rehab lub polecił(a)by ją innym? ☐ 
+Tak ☐ Nie ☐ Jeszcze nie wiem
+8. Co najbardziej się Panu/Pani podobało, a co warto byłoby poprawić? [ Otwarta 
+odpowiedź ]  
+
+
