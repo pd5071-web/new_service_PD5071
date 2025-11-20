@@ -1,0 +1,7 @@
+Potencjalne ryzyka:
+
+1. Brak wystarczająco dokładnego śledzenia ruchu w urządzeniach z niższej 
+półki.
+2. Ograniczenia pacjentów w starszym wieku przy korzystaniu z aplikacji 
+AR.
+3. Ryzyko niewłaściwego wykonywania ćwiczeń bez fizjoterapeuty w pobliżu.
