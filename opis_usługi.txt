@@ -14,3 +14,15 @@ Cele usługi:
 - Umożliwienie monitorowania postępów bez konieczności częstych wizyt 
 stacjonarnych.
 - Poprawa jakości terapii poprzez natychmiastową korektę ruchów.
+
+Grupa docelowa: Pacjenci po urazach kończyn, osoby z ograniczeniami
+    ruchowymi, seniorzy oraz pacjenci potrzebujący długotrwałej
+    rehabilitacji.
+
+Korzyści dla pacjentów: 
+    • zwiększenie motywacji dzięki interaktywnym ćwiczeniom,
+    • możliwość regularnej terapii w domu,
+    • dokładny monitoring postępów,
+    • personalizacja ćwiczeń,
+    • redukcja kosztów rehabilitacji długoterminowej,
+    • większe bezpieczeństwo dzięki automatycznym alertom przeciążenia.
